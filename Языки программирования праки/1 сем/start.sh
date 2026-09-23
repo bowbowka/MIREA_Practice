@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc 2.1.c -g -o program -lm && ./program
+gcc 2.2.c -g -o program -lm && ./program
